@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "prettier": "^3.3.1",
     "vite": "^7.2.2"
   }
